@@ -5,7 +5,7 @@
 const char* ssid     = "ชื่อ WiFi";  
 const char* password = "รหัสผ่าน WiFi"; 
 
-const char* host = "---- INPUT ----"; // ตัวอย่างเช่น http://ชื่อappของคุณ.herokuapp.com/bot.php
+const char* host = "---- INPUT xxx ----"; // ตัวอย่างเช่น http://ชื่อappของคุณ.herokuapp.com/bot.php
 #define APPID   "---- INPUT ----" // ชื่อ APP ID ใน NETPIE
 #define KEY     "---- INPUT ----" // key ของ Device Key
 #define SECRET  "---- INPUT ----" // Secret ของ Device Key
